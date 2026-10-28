@@ -1,0 +1,9 @@
+{
+  "name": "Sneakers Shop",
+  "short_name": "Sneakers",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#fa2f65",
+  "description": "Sneakers shop Flutter web app"
+}
